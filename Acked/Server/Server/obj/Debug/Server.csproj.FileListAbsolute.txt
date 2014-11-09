@@ -1,0 +1,28 @@
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\bin\Debug\Acked.exe
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\bin\Debug\Acked.pdb
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\obj\Debug\Ackedserver.Server.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\obj\Debug\Acked.exe
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\obj\Debug\Acked.pdb
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\obj\Debug\Ackedserver.Properties.Resources.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\obj\Debug\Ackedserver.pswd.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\bin\Debug\Acked.exe.manifest
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\bin\Debug\Acked.application
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\obj\Debug\Acked.TrustInfo.xml
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\obj\Debug\Acked.exe.manifest
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Server\Server\obj\Debug\Acked.application
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\obj\Debug\Acked.exe
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\obj\Debug\Acked.pdb
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\obj\Debug\Ackedserver.Properties.Resources.resources
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\obj\Debug\Ackedserver.pswd.resources
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\obj\Debug\Ackedserver.Server.resources
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\bin\Debug\Acked.exe.manifest
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\bin\Debug\Acked.application
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\bin\Debug\Acked.exe
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\bin\Debug\Acked.pdb
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\obj\Debug\Acked.TrustInfo.xml
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\obj\Debug\Acked.exe.manifest
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Server\Server\obj\Debug\Acked.application

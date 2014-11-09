@@ -1,0 +1,45 @@
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Ackedclient.TClient.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Ackedclient.LoginForm.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Ackedclient.request.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\bin\Debug\LumiSoft.Net.dll
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\bin\Debug\LumiSoft.Net.xml
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\bin\Debug\Acked.exe
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\bin\Debug\Acked.pdb
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Acked.exe
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Acked.pdb
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Ackedclient.Properties.Resources.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Ackedclient.About.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\bin\Debug\Acked.exe.manifest
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\bin\Debug\Acked.application
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Acked.TrustInfo.xml
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Acked.exe.manifest
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Acked\Client\Client\obj\Debug\Acked.application
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Interop.WMPLib.dll
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\AxInterop.WMPLib.dll
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Acked.exe
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Acked.pdb
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\bin\Debug\Acked.exe.manifest
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\bin\Debug\Acked.application
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\bin\Debug\Acked.exe
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\bin\Debug\Acked.pdb
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\bin\Debug\LumiSoft.Net.xml
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\bin\Debug\Interop.WMPLib.dll
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\bin\Debug\AxInterop.WMPLib.dll
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Ackedclient.About.resources
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Ackedclient.TClient.resources
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Ackedclient.LoginForm.resources
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Ackedclient.Properties.Resources.resources
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Ackedclient.request.resources
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Acked.TrustInfo.xml
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Acked.exe.manifest
+D:\Jaypee\Projects\Sem 6\Minor\Final Build\dvd\Acked\Client\Client\obj\Debug\Acked.application
